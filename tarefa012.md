@@ -3,3 +3,5 @@
 #### A linguagem é um fator de atenção para o desenvolvimento de software com qualidade, as linguagens, hoje, estão sobrecarregando a máquina por serem acessíveis demais aos humanos, sendo necessário equilibrar as vantagens e desvantagens de cada linguagem.
 #### De todos os fatores para atribuir qualidade ao software, a boa documentação é o principal deles, não adianta desenvolver bem com uma linguagem equilibrada, mas não realizar uma boa documentação e o próximo desenvolvedor a olhar para o código passar horas apenas entendendo do que ele se trata.
 #### Durante o processo de codificação, uma parte muito importante são os comentários, que possibilitam rapidamente o entendimento de determinadas funções, além disso há recursos que permitem transformar esses comentários em documentação.
+#### Há também a necessidade de escrever um código legível, pois mesmo com uma boa documentação, ainda não é possível entender um código se o próprio estiver de difícil leitura. Por isso é recomendável usar variáveis de fácil identificação, espaçamentos, recuos, alinhamento de código e regras gerais para projetos em equipe.
+#### 
