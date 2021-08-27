@@ -1,4 +1,4 @@
 
 ### Atualmente quase tudo usa software, está presente diariamente em nossas vidas, por isso, é necessário buscar a máxima qualidade desses softwares, mas o conceito de qualidade é abstrato e não é unânime, por isso há diversas regras e boas práticas para colaborar a atingir essa qualidade em softwares.
 ### A linguagem é um fator de atenção para o desenvolvimento de software com qualidade, as linguagens, hoje, estão sobrecarregando a máquina por serem acessíveis demais aos humanos, sendo necessário equilibrar as vantagens e desvantagens de cada linguagem.
-### De todos os fatores para atribuir qualidade ao software, a boa documentação é o principal deles, não adianta desenvolver bem com uma linguagem equilibrada, mas não realizar uma boa documentação e próximo desenvolvedor a olhar para o código passar horas apenas entendendo do que ele se trata.
+### De todos os fatores para atribuir qualidade ao software, a boa documentação é o principal deles, não adianta desenvolver bem com uma linguagem equilibrada, mas não realizar uma boa documentação e o próximo desenvolvedor a olhar para o código passar horas apenas entendendo do que ele se trata.
