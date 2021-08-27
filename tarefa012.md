@@ -9,4 +9,4 @@
 #### Por último, a segurança no código é parte essencial, onde algumas práticas aplicadas no código evitam erros, por exemplo, validando todas as entradas.
 #### 2.2 O artigo me apresentou conceitos que não conhecia como a reutilização de códigos e como efetuar, a necessidade e como escrever um código legível, mostrando que algumas práticas possibilitam diversas utilidades no desenvolvimento de softwares. 
 #### 2.3 A necessidade de avaliar a linguagem a ser usada já era um conceito previamente visto, assim como, a necessidade de documentação, os testes de software, seus tipos e a necessidade de realizar essa etapa. A segurança de software também é um assunto muito falado e cada dia mais comentado dentro do mundo da programação.
-#### 3. 
+#### 3. O artigo expõe as práticas necessárias para que o código siga uma qualidade pradonizada e que possibilita ações no futuro, melhorando a experiência de desenvolvedores que executarão ações nesse código e dos usuários desse software, além disso direciona para qual caminho deve ser seguido para ter um resultado satisfatório de código e documentação. 
