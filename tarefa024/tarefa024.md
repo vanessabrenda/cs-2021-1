@@ -4,4 +4,6 @@ A injeção de dependências é uma das formas de realizar a inversão de contro
 
 Esse padrão de programação é necessário para reduzir o acoplamento entre os módulos do sistema, utilizando essa técnica, as dependência entre os módulos não são definidas programando, mas sim por uma infraestrutura, ou seja, um container, que vai inserir as dependências declaradas em cada componente.
 
+Essas modificações são importantes para as classes serem mais fáceis de realizar manutenção e para ser uma classe testável.
+
 
