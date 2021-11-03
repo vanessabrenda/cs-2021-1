@@ -6,5 +6,5 @@ Esse padrão de programação é necessário para reduzir o acoplamento entre os
 
 Essas modificações são importantes para que as classes sejam mais fáceis de realizar manutenção e para ser testável.
 
-Exemplo: Vamos supor que exista uma classe que tenha o objetivo de cadastrar novos usuários em um sistema, ao realizar um cadastro é necessário também armazenar isso em um arquivo, em uma classe com alto nível de acoplamento essas duas tarefas estarão juntas, a classe irá solicitar os dados do cadastro e já realizar a criação do arquivo, utilizando o método de injeção de dependência isso será separado, a classe vai passar a cadastrar o novo usuário e chamar uma outra estrutura que vai realizar a criação de arquivo.
+Exemplo: Vamos supor que exista uma classe que tenha o objetivo de cadastrar novos usuários em um sistema, ao realizar um cadastro é necessário também armazenar isso em um arquivo, em uma classe com alto nível de acoplamento essas duas tarefas estarão juntas, a classe irá solicitar os dados do cadastro e já realizar a criação do arquivo. Ao utilizar o método de injeção de dependência isso será separado, a classe vai passar a cadastrar o novo usuário e chamar uma outra estrutura que vai realizar a criação de arquivo.
 
