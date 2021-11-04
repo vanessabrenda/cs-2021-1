@@ -1,7 +1,7 @@
-public class CEnderecoService implements EnderecoService {
+public class CEndereco implements EnderecoService {
     List<CadastroEndereco> cadastroEnderecos;
 
-    public CEnderecoService(List<CadastroEndereco> cadastroEnderecos) {
+    public CEndereco(List<CadastroEndereco> cadastroEnderecos) {
         this.cadastroEnderecos = cadastroEnderecos;
     }
 
